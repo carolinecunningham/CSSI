@@ -1,2 +1,2 @@
-# webdev
-compliations of CSSI projects from Summer 2020 
+# CSSI Final project
+Code for CSSI (Summer 2020) Final Project, where my partner and I used JavaScript to create a Pictionary-like game
