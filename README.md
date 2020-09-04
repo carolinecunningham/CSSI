@@ -1,2 +1,2 @@
 # webdev
-tracking webdev projects
+compliations of CSSI projects from Summer 2020 
